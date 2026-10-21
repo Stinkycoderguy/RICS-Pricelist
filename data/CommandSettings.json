@@ -337,7 +337,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"childhoodWager\":\"500\"}"
+    "CustomData": "{\"childhoodWager\":\"1000\"}"
   },
   "shuffleadulthood": {
     "Enabled": true,
@@ -357,7 +357,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"adulthoodWager\":\"500\"}"
+    "CustomData": "{\"adulthoodWager\":\"1000\"}"
   },
   "joinraid": {
     "Enabled": true,
@@ -460,7 +460,7 @@
     "CustomData": "{\"showDebugInfo\":\"false\"}"
   },
   "giftcoins": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -581,7 +581,7 @@
   },
   "backpack": {
     "Enabled": true,
-    "CooldownSeconds": 300,
+    "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -600,7 +600,7 @@
     "CustomData": ""
   },
   "surgery": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -688,20 +688,16 @@
     "RequiresConfirmation": false,
     "CommandAlias": "",
     "useCommandCooldown": false,
-    "MaxUsesPerCooldownPeriod": 15,
+    "MaxUsesPerCooldownPeriod": 0,
     "Label": "raid",
     "CommandDescription": "Call a hostile raid on the colony",
     "ExcludeFromPricelist": false,
-    "AllowedRaidTypes": [
-      "standard"
-    ],
-    "AllowedRaidStrategies": [
-      "stage"
-    ],
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"defaultRaidWager\":\"500\",\"minRaidWager\":\"100\",\"maxRaidWager\":\"50000\"}"
+    "CustomData": "{\"defaultRaidWager\":\"500\",\"minRaidWager\":\"100\",\"maxRaidWager\":\"2500\"}"
   },
   "raidinfo": {
     "Enabled": true,
@@ -844,7 +840,7 @@
     "CustomData": ""
   },
   "study": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -961,10 +957,10 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"enableBody\":\"true\",\"enableHealth\":\"true\",\"enableImplants\":\"true\",\"enableGear\":\"true\",\"enableWeapon\":\"true\",\"enableKills\":\"true\",\"enableNeeds\":\"true\",\"enableRelations\":\"true\",\"enableSkills\":\"true\",\"enableStats\":\"true\",\"enableStory\":\"true\",\"enableTraits\":\"true\",\"enableWork\":\"true\",\"enableJob\":\"true\",\"enablePsycasts\":\"true\",\"enableMechs\":\"False\",\"enableGenes\":\"true\",\"enableOwned\":\"true\",\"enableDisown\":\"true\"}"
+    "CustomData": "{\"enableBody\":\"true\",\"enableHealth\":\"true\",\"enableImplants\":\"true\",\"enableGear\":\"true\",\"enableWeapon\":\"true\",\"enableKills\":\"true\",\"enableNeeds\":\"true\",\"enableRelations\":\"true\",\"enableSkills\":\"true\",\"enableStats\":\"true\",\"enableStory\":\"true\",\"enableTraits\":\"true\",\"enableWork\":\"true\",\"enableJob\":\"true\",\"enablePsycasts\":\"true\",\"enableMechs\":\"true\",\"enableGenes\":\"true\",\"enableOwned\":\"true\",\"enableDisown\":\"true\"}"
   },
   "leave": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -1021,7 +1017,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"enableSelfRevive\":\"true\",\"enableTargetRevive\":\"true\",\"enableAllRevive\":\"true\",\"reviveCostMultiplier\":\"1\"}"
+    "CustomData": "{\"enableSelfRevive\":\"true\",\"enableTargetRevive\":\"true\",\"enableAllRevive\":\"true\",\"reviveCostMultiplier\":\"1.0\"}"
   },
   "healpawn": {
     "Enabled": true,
@@ -1041,7 +1037,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"enableSelfHeal\":\"true\",\"enableTargetHeal\":\"true\",\"enableAllHeal\":\"true\",\"healCostMultiplier\":\"1\"}"
+    "CustomData": "{\"enableSelfHeal\":\"true\",\"enableTargetHeal\":\"true\",\"enableAllHeal\":\"true\",\"healCostMultiplier\":\"1.0\"}"
   },
   "dye": {
     "Enabled": true,
@@ -1065,7 +1061,7 @@
   },
   "setfavoritecolor": {
     "Enabled": true,
-    "CooldownSeconds": 300,
+    "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1324,7 +1320,7 @@
     "CustomData": "{\"enabled\":\"true\"}"
   },
   "nuzzle": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -1476,6 +1472,126 @@
     "Label": "AI Chatbot",
     "CommandDescription": "!!!DO NOT TURN THIS ON!!!Talk to the AI storyteller . Requires AIChatBotActive in settings.",
     "ExcludeFromPricelist": false,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "vote": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "everyone",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": false,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "vote",
+    "CommandDescription": "Vote on the current storyteller ballot. Alias: !v",
+    "ExcludeFromPricelist": false,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "voteclose": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "moderator",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": false,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "vote close",
+    "CommandDescription": "Moderator. Close the current storyteller vote and fire the winner now.",
+    "ExcludeFromPricelist": false,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "rban": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "moderator",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "RICS ban",
+    "CommandDescription": "RICS-only ban: ignore this viewer's commands. Does not ban them on Twitch/Kick/YouTube. Usage: !rban user",
+    "ExcludeFromPricelist": false,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "runban": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "moderator",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "RICS unban",
+    "CommandDescription": "Clear a RICS-only ban and timeout. Does not unban on Twitch/Kick/YouTube. Usage: !runban user",
+    "ExcludeFromPricelist": false,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "rto": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "moderator",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "RICS timeout",
+    "CommandDescription": "RICS-only timeout: ignore commands for a wall-clock duration (default 5 minutes). Not a Twitch timeout. Usage: !rto user [duration] e.g. !rto bob 10m",
+    "ExcludeFromPricelist": false,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "setalias": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "moderator",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "set alias",
+    "CommandDescription": "Change a command alias. Usage: !setalias command alias, !setalias command to show it, !setalias command clear to remove it. Does not rename the command.",
+    "ExcludeFromPricelist": true,
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],
     "DefaultLootBoxSize": 1,
@@ -2235,46 +2351,6 @@
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "LayeredApparelCommand",
     "CommandDescription": "Cosmetic clothing",
-    "ExcludeFromPricelist": false,
-    "AllowedRaidTypes": [],
-    "AllowedRaidStrategies": [],
-    "DefaultLootBoxSize": 1,
-    "MinLootBoxSize": 1,
-    "MaxLootBoxSize": 10,
-    "CustomData": ""
-  },
-  "vote": {
-    "Enabled": true,
-    "CooldownSeconds": 0,
-    "Cost": 0,
-    "SupportsCost": false,
-    "PermissionLevel": "everyone",
-    "RequiresConfirmation": false,
-    "CommandAlias": "",
-    "useCommandCooldown": false,
-    "MaxUsesPerCooldownPeriod": 0,
-    "Label": "vote",
-    "CommandDescription": "Vote on the current storyteller ballot. Alias: !v",
-    "ExcludeFromPricelist": false,
-    "AllowedRaidTypes": [],
-    "AllowedRaidStrategies": [],
-    "DefaultLootBoxSize": 1,
-    "MinLootBoxSize": 1,
-    "MaxLootBoxSize": 10,
-    "CustomData": ""
-  },
-  "voteclose": {
-    "Enabled": true,
-    "CooldownSeconds": 0,
-    "Cost": 0,
-    "SupportsCost": false,
-    "PermissionLevel": "moderator",
-    "RequiresConfirmation": false,
-    "CommandAlias": "",
-    "useCommandCooldown": false,
-    "MaxUsesPerCooldownPeriod": 0,
-    "Label": "vote close",
-    "CommandDescription": "Moderator. Close the current storyteller vote and fire the winner now.",
     "ExcludeFromPricelist": false,
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],
