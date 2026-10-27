@@ -4076,9 +4076,9 @@
   },
   "PE_MuteProficiency_0": {
     "DefName": "PE_MuteProficiency",
-    "Name": "Mute",
+    "Name": "Non-speaker",
     "Degree": 0,
-    "Description": "This person has no understanding of language.",
+    "Description": "This person does not know common language.",
     "Stats": [],
     "Conflicts": [],
     "CanAdd": true,

@@ -1,4 +1,4 @@
 {
   "preferJsonOnLoad": false,
-  "protectLatestBackup": true
+  "protectLatestBackup": false
 }

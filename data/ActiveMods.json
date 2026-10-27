@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-10-21T01:03:50.6542188Z",
-  "totalActiveMods": 1490,
+  "exportedAt": "2026-10-27T21:47:15.9794931Z",
+  "totalActiveMods": 1489,
   "mods": [
     {
       "author": "Morton",
@@ -426,7 +426,7 @@
       "author": "XeoNovaDan",
       "name": "[XND] Profitable Weapons (Continued)",
       "steamId": "2269697598",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "XeoNovaDan",
@@ -561,16 +561,16 @@
       "version": null
     },
     {
-      "author": "azey7f",
+      "author": "maevi",
       "name": "Alien Worlds - Arctic",
       "steamId": "3626213617",
-      "version": null
+      "version": "0.2.1"
     },
     {
-      "author": "azey7f",
+      "author": "maevi",
       "name": "Alien Worlds - Dreamworld",
       "steamId": "3627997934",
-      "version": null
+      "version": "0.1.1"
     },
     {
       "author": "FEB",
@@ -579,34 +579,34 @@
       "version": null
     },
     {
-      "author": "azey7f",
+      "author": "maevi",
       "name": "Alien Worlds - Hellworld",
       "steamId": "3623866960",
-      "version": null
+      "version": "0.2.3"
     },
     {
-      "author": "azey7f",
+      "author": "maevi",
       "name": "Alien Worlds - Nightworld",
       "steamId": "3627921921",
-      "version": null
+      "version": "0.2.2"
     },
     {
-      "author": "azey7f",
+      "author": "maevi",
       "name": "Alien Worlds - Tidally Locked",
       "steamId": "3631364335",
-      "version": "0.1.2"
+      "version": "1.0.0"
     },
     {
-      "author": "azey7f",
+      "author": "maevi",
       "name": "Alien Worlds - Toxic",
       "steamId": "3627135618",
-      "version": null
+      "version": "0.1.3"
     },
     {
       "author": "maevi",
       "name": "Alien Worlds Framework",
       "steamId": "3626210061",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "author": "AlyssaPaws",
@@ -762,7 +762,7 @@
       "author": "Helixien",
       "name": "Altered Carbon 2: ReSleeved",
       "steamId": "2196278117",
-      "version": "6.1-Sov-rev2"
+      "version": "6.1-Sov-rev3"
     },
     {
       "author": "Mlie",
@@ -1302,7 +1302,7 @@
       "author": "Sam Hunt",
       "name": "Better Traders Guild",
       "steamId": "3684587591",
-      "version": "1.3.1"
+      "version": "1.3.2"
     },
     {
       "author": "Epicguru (James B)",
@@ -1695,7 +1695,7 @@
       "version": null
     },
     {
-      "author": "Captain Muscles (Original), Khobs, Kat, sklmqaq0991 (Chinese Translation)",
+      "author": "Captain Muscles (Original), Khobs, Kat, Mr. Wolf (摄魂狼) (Chinese)",
       "name": "Chill the Fork Out",
       "steamId": "3523235444",
       "version": null
@@ -1980,7 +1980,7 @@
       "author": "民火",
       "name": "Cut plants before building (Continued)",
       "steamId": "3286376165",
-      "version": "1.6.4"
+      "version": "1.7.0"
     },
     {
       "author": "Ghostie",
@@ -2256,13 +2256,13 @@
       "author": "Mlie",
       "name": "Ding On Game Loaded",
       "steamId": "2425530959",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Pyrce",
       "name": "Dire Raids (Continued)",
       "steamId": "3259909708",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "Kobe Riddle",
@@ -2307,7 +2307,7 @@
       "version": null
     },
     {
-      "author": "Captain Muscles (Nathan Harbour),  Kat",
+      "author": "Captain Muscles (Nathan Harbour)",
       "name": "Do Your F****** Research",
       "steamId": "3523205869",
       "version": null
@@ -2358,7 +2358,7 @@
       "author": "Daniel",
       "name": "Dress for the Weather (Continued)",
       "steamId": "3607724833",
-      "version": "1.6.5"
+      "version": "1.7.0"
     },
     {
       "author": "Hartarok",
@@ -2400,7 +2400,7 @@
       "author": "Dubwise",
       "name": "Dubs Bad Hygiene",
       "steamId": "836308268",
-      "version": "3.2.3250"
+      "version": "3.2.3260"
     },
     {
       "author": "Feivian",
@@ -2436,7 +2436,7 @@
       "author": "Dubwise",
       "name": "Dubs Performance Analyzer",
       "steamId": "2038874626",
-      "version": "1.7.20"
+      "version": "1.7.21"
     },
     {
       "author": "Zaljerem",
@@ -2802,7 +2802,7 @@
       "author": "Mlie",
       "name": "Flickable Storage",
       "steamId": "2497907804",
-      "version": "1.6.2"
+      "version": "1.7.0"
     },
     {
       "author": "kathanon",
@@ -2844,7 +2844,7 @@
       "author": "astryl",
       "name": "Flourish - Combat Animations",
       "steamId": "3793154978",
-      "version": "2.1.4"
+      "version": "2.1.5"
     },
     {
       "author": "Linnun",
@@ -2862,7 +2862,7 @@
       "author": "Mehni",
       "name": "Food Alert (Continued)",
       "steamId": "2017538067",
-      "version": "1.6.4"
+      "version": "1.7.0"
     },
     {
       "author": "Geraldo Da Ravioli",
@@ -2874,7 +2874,7 @@
       "author": "Dyrewulfe",
       "name": "Food Poisoning Stack Fix (Continued)",
       "steamId": "2843483188",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Cliffyq, Missionz3r0",
@@ -3693,12 +3693,6 @@
       "version": null
     },
     {
-      "author": "RockPaperRemote",
-      "name": "Inject Genes Retextured (1.6 Reupload)",
-      "steamId": "3809376831",
-      "version": null
-    },
-    {
       "author": "Haecriver",
       "name": "Injured Carry",
       "steamId": "2413690575",
@@ -3780,7 +3774,7 @@
       "author": "Mlie",
       "name": "Just Put It Over There",
       "steamId": "2856471776",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Kharshuf",
@@ -4044,7 +4038,7 @@
       "author": "ilyvion",
       "name": "Loading Progress",
       "steamId": "3535481557",
-      "version": "0.20.1"
+      "version": "0.21.0"
     },
     {
       "author": "ferny",
@@ -4068,7 +4062,7 @@
       "author": "Borsh",
       "name": "Logic Switch",
       "steamId": "3723818517",
-      "version": "1.2.2"
+      "version": "1.3.0"
     },
     {
       "author": "Pal 5k",
@@ -4656,7 +4650,7 @@
       "author": "Zaljerem",
       "name": "Music Manager (Continued)",
       "steamId": "3220120457",
-      "version": "1.0.9"
+      "version": "1.1.0"
     },
     {
       "author": "Big Dorbo",
@@ -4841,7 +4835,7 @@
     {
       "author": "rabiosus",
       "name": "No Quality Filter",
-      "steamId": null,
+      "steamId": "3528263608",
       "version": null
     },
     {
@@ -4950,7 +4944,7 @@
       "author": "Sea",
       "name": "Offspring Inherit Xenogenes (Continued)",
       "steamId": "3266000468",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "Scheigster",
@@ -5106,7 +5100,7 @@
       "author": "Murmur",
       "name": "Pawn Name Variety (Continued)",
       "steamId": "3548290568",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "Nalzurin",
@@ -5130,7 +5124,7 @@
       "author": "pointfeev",
       "name": "Pawns Use Fire Extinguishers (Continued)",
       "steamId": "3612608024",
-      "version": "1.6.2"
+      "version": "1.7.0"
     },
     {
       "author": "Funstab",
@@ -5280,7 +5274,7 @@
       "author": "Scherub",
       "name": "Planning Extended",
       "steamId": "2877392159",
-      "version": "1.18.0"
+      "version": "1.19.0"
     },
     {
       "author": "tk421storm",
@@ -5430,7 +5424,7 @@
       "author": "Lakuna",
       "name": "Prepare Moderately",
       "steamId": "2057362949",
-      "version": "6.9.2.0"
+      "version": "6.10.1.0"
     },
     {
       "author": "Yamazaki",
@@ -5454,7 +5448,7 @@
       "author": "Ben Lubar",
       "name": "Prison Commons (Continued)",
       "steamId": "2898000489",
-      "version": "1.6.3"
+      "version": "1.7.0"
     },
     {
       "author": "Gl0b on Steam",
@@ -5478,7 +5472,7 @@
       "author": "Mlie",
       "name": "Prisoners Should Fear Turrets",
       "steamId": "2602436826",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "ferny",
@@ -5658,7 +5652,7 @@
       "author": "astryl",
       "name": "Psycasts²",
       "steamId": "3761869362",
-      "version": "1.3.4"
+      "version": "1.3.5"
     },
     {
       "author": "DetVisor",
@@ -5766,7 +5760,7 @@
       "author": "YAYO",
       "name": "Real Faction Guest (Continued)",
       "steamId": "2886929245",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Sl4vP0weR",
@@ -5802,7 +5796,7 @@
       "author": "Helixien,  Oracle of Thessia",
       "name": "ReBuild: Doors and Corners",
       "steamId": "3262718980",
-      "version": "1.5-Miller-rev1"
+      "version": "1.5-Miller-rev2"
     },
     {
       "author": "rabiosus",
@@ -5850,7 +5844,7 @@
       "author": "Helixien",
       "name": "ReGrowth 2",
       "steamId": "2260097569",
-      "version": "5.2-rev2"
+      "version": "5.3-rev2"
     },
     {
       "author": "Noxilie",
@@ -5934,7 +5928,7 @@
       "author": "Aelanna",
       "name": "Research Tab Colors",
       "steamId": "3108740804",
-      "version": "1.3.0"
+      "version": "1.4.0"
     },
     {
       "author": "Nonnonstop",
@@ -5952,13 +5946,13 @@
       "author": "Helixien",
       "name": "ReSplice: Charmweavers",
       "steamId": "3131996691",
-      "version": "2.0-Mantis-rev5"
+      "version": "2.0-Mantis-rev7"
     },
     {
       "author": "Helixien",
       "name": "ReSplice: Core",
       "steamId": "3236303965",
-      "version": "1.0.2-Shelley-rev2"
+      "version": "1.0.2-Shelley-rev4"
     },
     {
       "author": "ferny",
@@ -6048,7 +6042,7 @@
       "author": "Rimblings contributors",
       "name": "Rimblings",
       "steamId": "3806903620",
-      "version": "0.2.5"
+      "version": "0.2.6"
     },
     {
       "author": "Maux",
@@ -6138,7 +6132,7 @@
       "author": "trocapalot",
       "name": "Rimworld: Soundscape Enhanced",
       "steamId": "3276642170",
-      "version": null
+      "version": "1.2"
     },
     {
       "author": "zwei2stein",
@@ -6237,7 +6231,7 @@
       "version": null
     },
     {
-      "author": "Tug",
+      "author": "Tugla",
       "name": "Roo's Satyr Xenotype",
       "steamId": "3548322381",
       "version": null
@@ -6342,7 +6336,7 @@
       "author": "Uuugggg",
       "name": "Safely Hidden Away (Continued)",
       "steamId": "3546378186",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "asunib",
@@ -6372,7 +6366,7 @@
       "author": "Mlie",
       "name": "Save Thing As Image",
       "steamId": "2930015327",
-      "version": "1.6.2"
+      "version": "1.7.0"
     },
     {
       "author": "1trickPwnyta",
@@ -6388,7 +6382,7 @@
     },
     {
       "author": "Owlchemist",
-      "name": "Scattered Stones 1.6",
+      "name": "Scattered Stones 1.7",
       "steamId": "3528503211",
       "version": null
     },
@@ -6474,7 +6468,7 @@
       "author": "Cruesoe,  Captain Muscles (Nathan Harbour),  Arodoid",
       "name": "Semi Random Research:P-Fork Continued",
       "steamId": "3778002533",
-      "version": "261017"
+      "version": "261026"
     },
     {
       "author": "1trickPwnyta",
@@ -6522,7 +6516,7 @@
       "author": "Sam Hunt",
       "name": "Shipcracker Warcasket",
       "steamId": "3814428597",
-      "version": "1.2.1"
+      "version": "1.4.0"
     },
     {
       "author": "jamaicancastle",
@@ -6714,7 +6708,7 @@
       "author": "busted_bunny",
       "name": "Slave Rebellions Improved (Continued)",
       "steamId": "3259932217",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "squishyjellyfish",
@@ -7194,7 +7188,7 @@
       "author": "mr_chimick",
       "name": "Too Many Areas (Continued)",
       "steamId": "3280480860",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Warachia",
@@ -7218,7 +7212,7 @@
       "author": "Sam Hunt",
       "name": "Toxin Warcasket",
       "steamId": "3821100591",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
     {
       "author": "Koni",
@@ -8358,7 +8352,7 @@
       "author": "totobrother",
       "name": "Various Space Ship Chunk (Continued)",
       "steamId": "2014616487",
-      "version": "1.6.2"
+      "version": "1.7.0"
     },
     {
       "author": "Rokk",
@@ -8694,7 +8688,7 @@
       "author": "Liebasam",
       "name": "We Had a Trader? (Continued)",
       "steamId": "1541408076",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "legodude17,  Oskar Potocki",
